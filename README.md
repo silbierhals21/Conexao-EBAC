@@ -1,2 +1,2 @@
 # Conexao-EBAC
-Exercicios do curso de Qualidade de Software
+Exercicios do Curso de Qualidade de Software
